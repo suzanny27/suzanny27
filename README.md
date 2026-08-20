@@ -15,7 +15,6 @@ Sou desenvolvedora e estou sempre aprendendo novas tecnologias. Abaixo estão as
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## 🔥 Streak de contribuições
 
 <img src="https://streak-stats.demolab.com?user=suzanny27&theme=dark&hide_border=true" />
 
