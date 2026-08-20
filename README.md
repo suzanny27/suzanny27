@@ -1,7 +1,5 @@
 # Seja bem-vindo ao meu github!!
 
-<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-
 ### Prazer, me chamo Suzanny 🧑‍💻
 
 Sou desenvolvedora e estou sempre aprendendo novas tecnologias. Abaixo estão as principais ferramentas que uso no dia a dia.
@@ -17,8 +15,12 @@ Sou desenvolvedora e estou sempre aprendendo novas tecnologias. Abaixo estão as
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<br clear="right"/>
-
 ## 🔥 Streak de contribuições
 
 <img src="https://streak-stats.demolab.com?user=suzanny27&theme=dark&hide_border=true" />
+
+<br>
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+</p>
