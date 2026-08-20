@@ -16,7 +16,6 @@ Sou desenvolvedora e estou sempre aprendendo novas tecnologias. Abaixo estão as
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-<img src="https://streak-stats.demolab.com?user=suzanny27&theme=dark&hide_border=true" />
 
 <br>
 
