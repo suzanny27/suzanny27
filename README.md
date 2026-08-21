@@ -2,7 +2,7 @@
 
 ### Prazer, me chamo Suzanny 🧑‍💻
 
-Sou desenvolvedora e estou sempre aprendendo novas tecnologias. Abaixo estão as principais ferramentas que uso no dia a dia.
+Estou sempre aprendendo novas tecnologias. Abaixo estão as principais ferramentas que uso no dia a dia.
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
