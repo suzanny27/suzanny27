@@ -19,4 +19,5 @@ Estou sempre aprendendo novas tecnologias. Abaixo estão as principais ferrament
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 </p>
+![snake](https://github.com/user-attachments/assets/e398c26e-fe26-404b-99f8-149bc0aef343)
 
