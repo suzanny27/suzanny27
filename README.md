@@ -1,7 +1,5 @@
 # Seja bem-vindo ao meu github!!
 
-### Prazer, me chamo Suzanny 🧑‍💻
-
 Estou sempre aprendendo novas tecnologias. Abaixo estão as principais ferramentas que uso no dia a dia.
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
